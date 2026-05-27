@@ -5,8 +5,7 @@
   🧠 Atualmente estudando Python <br>
   💕 Aprendendo programação <br>
   💻 Futura desenvolvedora <br>
-  🖋️ Atualmente estudando: <br>
-  python
+  
   
   
 </p>
@@ -16,6 +15,14 @@
 </div>
 
 ---
+# 🖋️ Estou aprendendo
+
+• Desenvolvimento Web
+• Python
+• Git e Github
+• Inteligencia artificial
+
+ 
 
 # 💖 Tecnologias
 
